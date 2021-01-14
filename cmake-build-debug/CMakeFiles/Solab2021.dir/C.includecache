@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/fabio/CLionProjects/Solab2021/Playfair.c
+stdio.h
+-
+Playfair.h
+C:/Users/fabio/CLionProjects/Solab2021/Playfair.h
+
+C:/Users/fabio/CLionProjects/Solab2021/Playfair.h
+
+C:/Users/fabio/CLionProjects/Solab2021/main.c
+stdio.h
+-
+string.h
+-
+

@@ -1,0 +1,3 @@
+C:/Users/fabio/CLionProjects/Solab2021/cmake-build-debug/CMakeFiles/Solab2021.dir
+C:/Users/fabio/CLionProjects/Solab2021/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fabio/CLionProjects/Solab2021/cmake-build-debug/CMakeFiles/rebuild_cache.dir
